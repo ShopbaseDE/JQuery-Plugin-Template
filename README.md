@@ -1,2 +1,4 @@
 # JQuery-Plugin-Template
-Template for jQuery Plugin
+This is a template for a jQuery Plugin.
+
+Replace ***$.fn.myFunction*** with your function name and add your code
